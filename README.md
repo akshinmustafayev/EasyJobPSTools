@@ -35,6 +35,13 @@ Example:
 ## Available commands
 1. [Show-EJInputBox](https://github.com/akshinmustafayev/EasyJobPSTools/blob/main/ejpst/Items/Show-EJInputBox/readme.md) - Shows Input-Box for you script
 
+## Installation
+1. Download release
+2. Create folder __EasyJobPSTools__ in __C:\Program Files\WindowsPowerShell\Modules__
+3. Copy contents of the release to the __C:\Program Files\WindowsPowerShell\Modules__
+4. No additional steps are required. PowerShell will automatically load module
+
+
 ## Compilation
 1. Download and install Visual Studio 2019
 2. Download source code and extract it to C:\temp
