@@ -33,7 +33,7 @@ Example:
 ![image](https://user-images.githubusercontent.com/29357955/137620025-ea14c0a4-e271-4c2a-9a2b-973cd66cb513.png)
 
 ## Available commands
-1. Show-EJInputBox - Shows Input-Box for you script
+1. [Show-EJInputBox](https://github.com/akshinmustafayev/EasyJobPSTools/blob/main/ejpst/Items/Show-EJInputBox/readme.md) - Shows Input-Box for you script
 
 ## Compilation
 1. Download and install Visual Studio 2019
