@@ -45,7 +45,7 @@ Example:
 ## Compilation
 1. Download and install Visual Studio 2019
 2. Download source code and extract it to C:\temp
-3. Open __cd C:\temp\EasyJobPSTools-main\EasyJobPSTools.sln__
+3. Open __C:\temp\EasyJobPSTools-main\EasyJobPSTools.sln__
 4. Press F5 to compile
 
 ## Contributing
