@@ -36,9 +36,7 @@ Example:
 1. Show-EJInputBox - Shows Input-Box for you script
 
 ## Compilation
-1. Download and install .NET Framework 4.8 Developer Pack from [Here](https://dotnet.microsoft.com/download/visual-studio-sdks)
+1. Download and install Visual Studio 2019
 2. Download source code and extract it to C:\temp
-3. Open Command Promt (cmd) from the start menu
-4. Execute __cd C:\temp\EasyJobPSTools-main__
-5. Execute __dotnet build -c release__
-6. 
+3. Open __cd C:\temp\EasyJobPSTools-main\EasyJobPSTools.sln__
+4. Press F5 to compile
