@@ -40,3 +40,6 @@ Example:
 2. Download source code and extract it to C:\temp
 3. Open __cd C:\temp\EasyJobPSTools-main\EasyJobPSTools.sln__
 4. Press F5 to compile
+
+## Contributing
+Contribution is very much appreciated. Hope that this tool might be useful for you!
