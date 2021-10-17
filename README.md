@@ -20,7 +20,7 @@
 
 ## Description
 
-EasyJobPSTools - is a PowerShell Module for the EasyJob application
+EasyJobPSTools - is a PowerShell Module which enables Graphic features for your scripts
 
 ## Overview
 
