@@ -34,6 +34,8 @@ Example:
 
 ## Available commands
 1. [Show-EJInputBox](https://github.com/akshinmustafayev/EasyJobPSTools/blob/main/ejpst/Items/Show-EJInputBox/readme.md) - Shows Input-Box for you script
+2. [Show-EJSelectFileWindow](https://github.com/akshinmustafayev/EasyJobPSTools/blob/main/ejpst/Items/Show-EJSelectFileWindow/readme.md) - Shows Select File Dialog and returns selected file path
+3. [Show-EJSelectFolderWindow](https://github.com/akshinmustafayev/EasyJobPSTools/blob/main/ejpst/Items/Show-EJSelectFolderWindow/readme.md) - Shows Select Folder Dialog and returns selected folder path
 
 ## Installation
 1. Download release
