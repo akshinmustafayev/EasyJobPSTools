@@ -6,7 +6,6 @@ Show-EJSelectFileWindow - Shows Select File Dialog and returns selected file pat
 
 ![image](https://user-images.githubusercontent.com/29357955/138409714-3e97debd-1733-44fa-8b3a-ebcc6672f439.png)
 
-
 ## Parameters
 1. FileType - This parameter is not mandatory. Specifies File type which you would like for user to select. [More](https://docs.microsoft.com/en-us/dotnet/api/system.windows.forms.filedialog.filter?view=windowsdesktop-5.0#System_Windows_Forms_FileDialog_Filter)
 
