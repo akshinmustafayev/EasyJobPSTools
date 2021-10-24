@@ -40,7 +40,7 @@ Example:
 ## Installation
 1. Download release
 2. Create folder __EasyJobPSTools__ in __C:\Program Files\WindowsPowerShell\Modules__
-3. Copy contents of the release to the __C:\Program Files\WindowsPowerShell\Modules__
+3. Copy contents of the release to the __C:\Program Files\WindowsPowerShell\Modules\EasyJobPSTools__
 4. No additional steps are required. PowerShell will automatically load module
 
 
