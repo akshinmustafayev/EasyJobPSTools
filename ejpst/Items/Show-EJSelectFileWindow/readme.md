@@ -12,7 +12,7 @@ Show-EJSelectFileWindow - Shows Select File Dialog and returns selected file pat
 ## Example:
 
 ```PowerShell
-Import-Module "D:\EasyJobPSTools\EasyJobPSTools.psd1"
+Import-Module EasyJobPSTools
 
 $Result = Show-EJSelectFileWindow -FileType "txt files (*.txt)|*.txt|All files (*.*)|*.*"
 Write-Host "Selected file path is: $Result"
