@@ -13,7 +13,7 @@ none
 ## Example:
 
 ```PowerShell
-Import-Module "D:\EasyJobPSTools\EasyJobPSTools.psd1"
+Import-Module EasyJobPSTools.psd1
 
 $Result = Show-EJSelectFolderWindow
 Write-Host "Selected folder path is: $Result"
